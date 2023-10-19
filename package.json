@@ -9,9 +9,13 @@
     "build": "npm run clean && tsc"
   },
   "dependencies": {
+    "@types/bcryptjs": "^2.4.5",
     "@types/express": "^4.17.15",
+    "@types/jsonwebtoken": "^9.0.4",
     "@types/node": "^18.11.17",
+    "bcryptjs": "^2.4.3",
     "dotenv": "^16.3.1",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^7.6.3",
     "prettier": "^3.0.3"
   },
